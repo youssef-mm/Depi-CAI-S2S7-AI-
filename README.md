@@ -17,7 +17,7 @@ This repository tracks my journey across the following specialized modules:
 - [x] **Python for Data Science, AI & Development**
 
 ### 🔹 Phase 2: Data & Core ML
-- [ ] **Data Preprocessing & Visualization**
+- [x] **Data Preprocessing & Visualization**
 - [ ] **Machine Learning Techniques** (Supervised & Unsupervised)
 
 ### 🔹 Phase 3: Advanced AI & Specialized Fields
